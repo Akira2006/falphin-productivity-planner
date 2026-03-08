@@ -1,3 +1,6 @@
+## Live Demo
+https://falphin-appuctivity-planner-fxgrzsjv4krtztn5zlsjkb.streamlit.app/
+
 # 🐬 Falphin – AI Productivity Companion
 
 Falphin is a gamified productivity planner that helps users organize tasks,
